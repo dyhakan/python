@@ -1,0 +1,3 @@
+import pyautocad
+
+help (pyautocad)
